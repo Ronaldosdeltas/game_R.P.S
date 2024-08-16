@@ -35,5 +35,6 @@ button{
 
 }
 .reset-button{
-    margin-top:5px; ;
+    margin-top:5px;
+     background-color:rgb(161, 161, 225);
 }
